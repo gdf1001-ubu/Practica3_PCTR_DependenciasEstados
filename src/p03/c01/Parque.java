@@ -29,7 +29,7 @@ public class Parque implements IParque{
 		// TODO
 				
 		
-		// Aumentamos el contador total y el individual
+		// Aumentamos el contador total y el individual---AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 		contadorPersonasTotales++;		
 		contadoresPersonasPuerta.put(puerta, contadoresPersonasPuerta.get(puerta)+1);
 		
